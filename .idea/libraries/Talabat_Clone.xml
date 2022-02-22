@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Talabat_Clone">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Talabat_Clone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
